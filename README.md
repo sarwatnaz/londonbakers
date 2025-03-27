@@ -26,3 +26,5 @@ events.
 7) There should be a “Contact Us” page which will have the Address of the
 Company which is as follows and the mail address which when clicked will
 invoke the local mail client from where they can send an email.
+
+test change
